@@ -1,2 +1,11 @@
-# BERT
-A Deep Learning Model Based on BERT and Sentence Transformer for Semantic Keyphrase Extraction on Big Social Data.
+- There are three ipynb containing the code for the implementations and the experiments that we did.
+- ```PaperImplementation.ipynb``` contains the source code and graphs which we wrote to implement the paper.
+- ```Experiment1.ipynb``` contains the code for the first experiment which we did.
+- ```Experiment2.ipynb``` contains the code for the second experiment which we did.
+- The datasets used in the paper implementation are:
+-- https://www.kaggle.com/datasets/shreyaout/human-rights-violation-tweets
+-- https://www.kaggle.com/datasets/rishabh6377/india-national-education-policy2020-tweets-dataset
+-- https://www.kaggle.com/datasets/gpreda/covid19-tweets
+-- https://www.kaggle.com/datasets/amritpal333/tokyo-olympics-2021-tweets
+- The dataset used for Experiment1 and Experiment2 is https://www.kaggle.com/datasets/amritpal333/tokyo-olympics-2021-tweets
+- All the ipynb files have been run and the results are captured in it.
